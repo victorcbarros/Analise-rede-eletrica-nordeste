@@ -1,6 +1,6 @@
 # Análise de Dados das Interrupções no Sistema Elétrico de Distribuição no Nordeste em 2023
 
-![image](https://github.com/victorcbarros/Analise-Exportacao-de-Vinhos/blob/363d14771c1b1b8828b0b67a6c402d16819683b7/reports-relatorios/figures-figuras/Projeto%20Analise%20Exporta%C3%A7%C3%A3o%20de%20Vinhos%20Banner.jpg)
+![image](https://github.com/victorcbarros/eda-rede-eletrica-nordeste/blob/main/reports/figures/Banner%20Portfolio.png)
 
 ## 📌 Introdução
 
