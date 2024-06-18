@@ -79,7 +79,7 @@ _Etapas do Tratamento e Limpeza dos Dados:_
 3. Tratamento e Limpeza dos Dados de Interrupções
 4. Tratamento e Limpeza dos Dados de Chuva
 
-Todo processo de tratamento e limpeza de dados esta presente detalhadamente na pasta notebooks - codigos deste repositorio no notebook **Análise Exploratoria Interrupções Nordeste 2023.ipynb**.
+Todo processo de tratamento e limpeza de dados esta presente detalhadamente na pasta notebooks deste repositorio no notebook **Análise Exploratoria Interrupções Nordeste 2023.ipynb**.
 
 ## 📊 Análise dos Dados
 
