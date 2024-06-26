@@ -176,7 +176,7 @@ fig_mediana_consu = px.line(mediana_das_variaveis,
                                     y = 'ConsumidoresAtingidos',
                                     markers = True,
                                     color_discrete_sequence=['#156082'],
-                                    title = 'Mediana de Consumidores Atingidos  por Mês')
+                                    title = 'Mediana de Consumidores Atingidos por Mês')
 fig_mediana_consu.update_yaxes(range=[0, limite_superior_y_mediana_consu])
 fig_mediana_consu.update_layout(yaxis_title = 'Unidades Consumidoras Atingidas')
 rotulo_de_dados(fig_mediana_consu,mediana_das_variaveis,'ConsumidoresAtingidos')
