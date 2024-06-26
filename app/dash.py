@@ -36,7 +36,7 @@ st.markdown("<h3 style='text-align: center;'>INTERRUPÇÕES DE ENERGIA ELÉTRICA
 
 
 #importando o arquivo do dashboard
-df = pd.read_parquet('app\dash.parquet',engine='pyarrow')
+df = pd.read_parquet('app/dash.parquet',engine='pyarrow')
 df = df.reset_index()
 df['InicioInterrupcao'] = pd.to_datetime(df['InicioInterrupcao'], format='%Y-%m-%d %H:%M:%S')
 df['FimInterrupcao'] = pd.to_datetime(df['FimInterrupcao'], format='%Y-%m-%d %H:%M:%S')
